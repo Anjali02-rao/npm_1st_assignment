@@ -2,8 +2,8 @@
   "name": "chart",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "homepage": "https://anjali02-rao.github.io/npm_1st_assignment/",
+  "type": "module",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
